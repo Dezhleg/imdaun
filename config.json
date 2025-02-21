@@ -1,0 +1,13 @@
+{
+    "DataBase":{
+        "db_name":"name",
+        "user":"postgres",
+        "password":"1122",
+        "host": "localhost",
+        "port": "5432"
+    },
+
+    "TaskItems":["name","desc","status"],
+
+    "Status":["Planned","In progress", "Done"]
+}
