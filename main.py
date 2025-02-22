@@ -33,6 +33,6 @@ class menu:
             except ValueError as e: print(f"Error: {e} ")
 
 class main:
-    print("Working!")
+    print("!")
     getConfig()
     menu()
